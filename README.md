@@ -1,4 +1,4 @@
-- 👋 Hella there , I’m @SumanMustafa23
+- 👋 Hella there , I’m @SumanMustafa
 - 👀 I’m interested in ...AI field
 - 🌱 I’m currently learning ...GEN Artificail intellegence web3 & metaverse at governor house sindh
 - 💞️ I’m looking to collaborate on Software devlopment 
